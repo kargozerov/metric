@@ -1,4 +1,4 @@
-# vue
+# Metric bitcoin
 
 ## Project setup
 ```
